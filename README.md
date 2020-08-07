@@ -1,3 +1,4 @@
 # ML_using_numpy
 
-为了加深对ML原理以及推导的理解，本repo将在仅使用numpy的情况下实现各种ML算法
+Impletement Machine Learning algorithm using numpy to understand mathematical perspective of ML with implementations instead of how to use
+(black box) ML libraries.
